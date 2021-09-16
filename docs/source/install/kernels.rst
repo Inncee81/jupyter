@@ -2,7 +2,7 @@
 Installing Kernels
 ==================
 
-This information gives a high-level view of using Jupyter Notebook with
+This information giyjves a high-level view of using Jupyter Notebook with
 different programming languages (kernels).
 
 Are any languages pre-installed?
